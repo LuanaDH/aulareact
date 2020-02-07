@@ -6,7 +6,7 @@ import './index.css';
 import App from './components/app';
 
 ReactDOM.render(
-    ( <App title= "Formulário"/>
+    ( <App title= "Lista Profissionais"/>
     // <div className="content">
     //     <div className="panel">
     //         <div className="penel-header">
